@@ -2,5 +2,8 @@
   "name": "Project-Marvel",
   "version": "0.0.1",
   "description": "Proyecto para probar el api de Marvel",
-  "dependencies": {}
+  "dependencies": {
+    "angular": "~1.2.25",
+    "bootstrap": "~3.2.0"
+  }
 }
